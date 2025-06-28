@@ -34,7 +34,7 @@
 ## شروع سریع
 
 ```bash
-git clone https://github.com/QH-SMART-AI/Dari-NLP-Intro.git
+git clone https://github.com/qaiishaidari/Dari-NLP-Intro.git
 cd Dari-NLP-Intro
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
